@@ -1,1 +1,1 @@
-# old_mod4_debug_practices
+Each project is self-contained and includes necessary instructions.  Both have several bugs.  :)
